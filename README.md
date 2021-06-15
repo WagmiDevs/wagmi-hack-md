@@ -4,6 +4,10 @@
 
 
 - [X] an update to the hack-md-repo from the hackmd web interface..
+
 - [X] an update to the hack-md-doc from github repo/cli
+
+- [X] an update to the hack-md-doc from github website
+
 - [ ] next task goes here..
 

@@ -9,5 +9,7 @@
 
 - [X] an update to the hack-md-doc from github website
 
-- [ ] next task goes here..
 
+These 3 Tasks were completed by @aseriousgogetta 
+
+[Loom Video](/url)
